@@ -8,4 +8,4 @@ Management repository for the Impact project
 
 ## Documentation
 
-1. Meetings minutes: [Google Drive]()
+1. Meetings minutes: [Google Drive]() <-- Need to add link
