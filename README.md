@@ -1,5 +1,5 @@
 # impact-project-mgmt
-Management repository for the Impact project
+Management repository for the ImPACT project
 
 
 ## Related repositories
