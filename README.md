@@ -12,5 +12,5 @@ Meeting minutes, design docs, decision points, etc.
 
 ### RRA
 
-1. [RRA Impact Meeting 2017-10-16](https://docs.google.com/document/d/1yHYYWpOqKiq5CbEGetblA60oOViKb6GRgkHbXt2jdzU/edit)
+1. [RRA Impact Meeting 2017-10-16](https://docs.google.com/document/d/1yHYYWpOqKiq5CbEGetblA60oOViKb6GRgkHbXt2jdzU/edit) - extract ingest code from dataverse, bulk uploads, licensing, data providers, OAI-PMH server, public page for repos list
 
