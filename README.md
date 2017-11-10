@@ -18,3 +18,4 @@ Meeting minutes, design docs, decision points, etc.
 
 1. [RRA Impact Meeting 2017-10-16](https://docs.google.com/document/d/1yHYYWpOqKiq5CbEGetblA60oOViKb6GRgkHbXt2jdzU/edit) - extract ingest code from dataverse, bulk uploads, licensing, data providers, OAI-PMH server, public page for repos list
 
+2. [Use case draft - Nov 2017](https://docs.google.com/document/d/1jPnQ5sNftvcdCSY01ojqQ2jhW8WPqzmnv85x8qXcJC0/edit) - Register data set without uploading data, Register data set and upload data, User defines a metadata template to be used during ingest process, User updates data set access requirements
