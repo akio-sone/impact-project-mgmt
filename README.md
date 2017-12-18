@@ -4,6 +4,7 @@ Management repository for the ImPACT project
 - Use the [issues](https://github.com/RENCI-NRIG/impact-project-mgmt/issues) tab to create, update and monitor progress on any task as it relates to ImPACT.
 - If you need access to this repository contact [Michael Stealey](mailto:stealey@renci.org) to be added as a collaborator.
 - [Point Solutions Workplan](https://docs.google.com/document/d/1tp7qRDfhwAnCMMqMRkywwnh9tpORudH-uFHZdK5TNks) - Google Docs, permissions enforcement may apply
+    ![Point Solutions Workplan](https://user-images.githubusercontent.com/5332509/34127346-bc009dd2-e40a-11e7-9878-6e4cc209e66f.png)
 
 ## Related repositories
 
