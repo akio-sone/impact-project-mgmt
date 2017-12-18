@@ -1,6 +1,9 @@
 # impact-project-mgmt
 Management repository for the ImPACT project
 
+- Use the [issues](https://github.com/RENCI-NRIG/impact-project-mgmt/issues) tab to create, update and monitor progress on any task as it relates to ImPACT.
+- If you need access to this repository contact [Michael Stealey](mailto:stealey@renci.org) to be added as a collaborator.
+
 
 ## Related repositories
 
