@@ -8,7 +8,7 @@ Management repository for the ImPACT project
 
 ## Related repositories
 
-1. Dataverse Remote Registration Agent (RRA): [https://github.com/RENCI-NRIG/dataverse-rra](https://github.com/RENCI-NRIG/dataverse-rra)
+1. Dataverse Trusted Remote Storage Agent (TRSA): [https://github.com/RENCI-NRIG/dataverse-trsa](https://github.com/RENCI-NRIG/dataverse-trsa)
 
 ## Documentation
 
