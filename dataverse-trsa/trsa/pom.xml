@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>us.cyberimpact</groupId>
+    <artifactId>trsa</artifactId>
+    <version>0.1</version>
+    <packaging>jar</packaging>
+
+    <name>Trusted Remote Storage Agent</name>
+    <description>Trusted Remote Storage Agent developed by ImPACT project (cyberimpact.us)</description>
+    <url>http://cyberimpact.us/</url>
+    
+    <licenses>
+        <license>
+            <name>The Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+    
+    <developers>
+        <developer>
+            <name>Ilya Baldin</name>
+            <email>ibaldin@renci.org</email>
+            <organization>RENCI</organization>
+            <organizationUrl>http://www.renci.org/</organizationUrl>
+        </developer>
+
+        <developer>
+            <name>Jonathan Crabtree</name>
+            <email>jonathan_crabtree@unc.edu</email>
+            <organization>H.W. Odum Institute for Research in Social Science</organization>
+            <organizationUrl>www.odum.unc.edu</organizationUrl>
+        </developer>
+
+        <developer>
+            <name>Michael Stealey</name>
+            <email>stealey@renci.org</email>
+            <organization>RENCI</organization>
+            <organizationUrl>http://www.renci.org/</organizationUrl>
+        </developer>
+
+        <developer>
+            <name>Don Sizemore, II</name>
+            <email>dls@email.unc.edu</email>
+            <organization>H.W. Odum Institute for Research in Social Science</organization>
+            <organizationUrl>www.odum.unc.edu</organizationUrl>
+        </developer>
+
+        <developer>
+            <name>Akio Sone</name>
+            <email>asone@email.unc.edu</email>
+            <organization>H.W. Odum Institute for Research in Social Science</organization>
+            <organizationUrl>www.odum.unc.edu</organizationUrl>
+        </developer>
+    </developers>
+    <scm>
+        <connection>scm:git:git://github.com/RENCI-NRIG/impact-project-mgmt.git</connection>
+        <developerConnection>scm:git:ssh://github.com:RENCI-NRIG/impact-project-mgmt.git</developerConnection>
+        <url>https://github.com/RENCI-NRIG/impact-project-mgmt/dataverse-trsa</url>
+    </scm>
+    
+    
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <maven.compiler.source>1.8</maven.compiler.source>
+        <maven.compiler.target>1.8</maven.compiler.target>
+    </properties>
+    
+    
+    
+    
+    <repositories>
+        
+        <repository>
+            <id>dvn.private</id>
+            <name>Local repository for hosting jars not available from network repositories.</name>
+            <url>file://${project.basedir}/local_lib</url>
+        </repository>
+        
+    </repositories>    
+    
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>*.properties</include>
+                </includes>
+            </resource>
+            <resource>
+                <directory>src/main/resources</directory>
+                <includes>
+                    <include>**/*.json</include>
+                    <include>**/*.xml</include>
+                </includes>
+            </resource>
+        </resources>
+        
+        
+        
+        
+        
+    </build>
+    
+    
+    
+</project>
